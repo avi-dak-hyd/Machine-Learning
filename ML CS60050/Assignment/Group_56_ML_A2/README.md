@@ -1,2 +1,2 @@
-# Machine-Learning
-This Includes Details of ML coursework
+# Naive Bayes Classifier and PCA
+This includes Details creating a Naive Bayes Classifier and PCA from scratch
